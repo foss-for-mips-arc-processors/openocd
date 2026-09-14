@@ -1,4 +1,4 @@
-#  Copyright (C) 2015 Synopsys, Inc.
+#  Copyright (c) 2015 - 2026 MIPS Holding, Inc.
 #  Anton Kolesov <anton.kolesov@synopsys.com>
 #
 #  This program is free software; you can redistribute it and/or modify
